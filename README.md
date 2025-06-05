@@ -1,5 +1,6 @@
 # Elevate-Labs-Task-7
 Checking Browser Extensions
+
 Tools used  chrome extensions
 
 steps taken opened chrome extension manager
